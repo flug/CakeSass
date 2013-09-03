@@ -1,0 +1,10 @@
+{
+    "require": {
+        "leafo/scssphp": "~0.0.7"
+    },
+    "config": {
+        "vendor-dir": "Vendor"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
